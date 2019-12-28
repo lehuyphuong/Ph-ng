@@ -1,1 +1,1 @@
-every files of traffic signs
+every file of traffic signs
